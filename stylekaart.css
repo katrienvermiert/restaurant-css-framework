@@ -1,0 +1,13 @@
+p{
+    font-size: 10px;
+}
+
+body{
+    background-image: url(images/pizza3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+table{
+    opacity: 0.8;
+}

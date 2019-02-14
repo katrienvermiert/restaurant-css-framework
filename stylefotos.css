@@ -1,0 +1,24 @@
+body{
+    background-image: url(images/vespa.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+}
+
+.row{
+    border-top: 2px solid whitesmoke;
+    border-bottom: 2px solid whitesmoke;
+}
+
+.col-8{
+    margin: 5px auto;
+}
+
+.pagination{
+    justify-content: center;
+}
+
+h1{
+    font-family: 'Felipa', cursive;
+    font-size: 2.5em;
+}

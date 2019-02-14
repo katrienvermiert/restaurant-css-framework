@@ -1,0 +1,10 @@
+body{
+    background-image: url(images/3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p{
+    font-family: 'Felipa', cursive; ;
+    font-size: 2.5em ;
+}
